@@ -1,5 +1,7 @@
 ## Awesome Markdown Table
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cikai/awesome-markdown-table.svg)](https://greenkeeper.io/)
+
 Install the dependencies.
 
 ```
